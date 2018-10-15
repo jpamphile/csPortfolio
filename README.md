@@ -1,3 +1,3 @@
-# codeOfTheStreets
-codeOfTheStreets : my coding projects
-Website is published at https://jpamphile.github.io/csPortfolio/
+# cots
+cots stands for codes of the street : my coding projects
+Website is published at https://jpamphile.github.io/cots
